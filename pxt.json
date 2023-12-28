@@ -40,16 +40,18 @@
         "docs/package.json",
         "package.json",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "custom.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "6.0.25",
-        "targetId": "microbit"
+        "target": "1.12.46",
+        "targetId": "arcade"
     },
     "supportedTargets": [
+        "arcade",
         "microbit"
     ],
     "preferredEditor": "tsprj"
