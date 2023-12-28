@@ -1,5 +1,6 @@
 {
     "name": "gh-repo-clone-pokeclicker-pokeclicker",
+    "version": "0.10.18",
     "dependencies": {
         "core": "*",
         "radio": "*",
