@@ -1,12 +1,12 @@
-node_modules/
-.idea/
-build/
+# MakeCode
+built
+node_modules
+yotta_modules
+yotta_targets
+pxt_modules
+.pxt
+_site
 *.db
-config.js
-src/declarations/
-.vs/
-.vscode/
-*.sln
-Web.config
-report.*.json
-.DS_Store
+*.tgz
+.header.json
+.simstate.json
